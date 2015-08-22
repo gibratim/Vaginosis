@@ -1,0 +1,13 @@
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\VaginosisApp.csprojResolveAssemblyReference.cache
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\App.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\Connections.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\DevicePage.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\HomePage.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\LoginPage.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\MainPage.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\RegisterPage.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\StartPage.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\TestingPage.g.cs
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\VaginosisApp.g.resources
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\VaginosisApp.Resources.AppResources.resources
+F:\archieves\app staff\New\VaginosisApp\VaginosisApp\VaginosisApp\obj\Release\VaginosisApp.csproj.GenerateResource.Cache
